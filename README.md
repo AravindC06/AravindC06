@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 Hello! I am a passionate Web Developer with experience in freelancing and collaborating on diverse projects. My expertise spans across WordPress, the MERN Stack, and Laravel, enabling me to build dynamic and responsive websites. I enjoy working as part of a team, contributing ideas, and delivering innovative solutions. Whether it's crafting user-friendly interfaces or developing robust backend systems, I strive for excellence in every project. With a strong focus on detail and efficiency, I ensure my work meets the highest standards. Outside of work, I love exploring new technologies and enhancing my development skills.
 
